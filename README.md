@@ -1,1 +1,1 @@
-# DPG11-Python_Package
+# dpg11_pylib
